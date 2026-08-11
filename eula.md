@@ -147,7 +147,7 @@ Nothing in this section prevents you from relying on mandatory rights or protect
 If you have questions regarding this Agreement, the Game, licensing, or permitted use of the Game, you may contact the Developer at:
 
 **Kenji&Dalmatinski Games**
-**Email: [INSERT CONTACT EMAIL]**
+**Email: kenjifella@gmail.com**
 
 ---
 
