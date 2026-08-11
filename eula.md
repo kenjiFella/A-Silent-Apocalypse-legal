@@ -138,7 +138,7 @@ If it cannot be made enforceable, it will be removed without affecting the valid
 
 ## 11. Governing Law and Jurisdiction
 
-This Agreement is governed by the laws applicable in **[England and Wales / Northern Ireland / Scotland]**, as selected by the Developer, subject to any mandatory consumer protection laws that apply to you.
+This Agreement is governed by the laws applicable in Northern Ireland, as selected by the Developer, subject to any mandatory consumer protection laws that apply to you.
 
 Nothing in this section prevents you from relying on mandatory rights or protections available to you under the law that applies to you.
 
